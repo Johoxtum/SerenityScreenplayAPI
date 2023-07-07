@@ -47,7 +47,7 @@ src
  + resources                           |
    + features                          | Feature files
       + {feature_name}                 | Feature file  specific
-          {feature_name}.feature?       |
+          {feature_name}.feature       |
    + serenity.conf                     | Config file for Serenity
 serenity.properties                       | General properties Serenity
 ```
