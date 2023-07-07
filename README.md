@@ -4,27 +4,27 @@
 [![Cucumber](https://img.shields.io/badge/Cucumber-3.6.12-brightgreen)](https://cucumber.io/)
 [![Gradle](https://img.shields.io/badge/Gradle-7.1.1-blue)](https://gradle.org/)
 
-Este proyecto es un ejemplo de implementaci髇 de pruebas automatizadas utilizando Serenity Screenplay con Cucumber y Gradle. Las pruebas est醤 dise馻das para interactuar con la API "https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-GetBookings".
+Este proyecto es un ejemplo de implementaci贸n de pruebas automatizadas utilizando Serenity Screenplay con Cucumber y Gradle. Las pruebas esta dise帽adas para interactuar con la API "https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-GetBookings".
 
 ## Caracteristicas
 
-- Utiliza el enfoque de Screenplay para escribir pruebas m醩 legibles y mantenibles.
-- Se integra con Cucumber para la definici髇 de escenarios de prueba en lenguaje natural.
-- Configurado con Gradle como gestor de paquetes y herramienta de construcci髇.
+- Utiliza el enfoque de Screenplay para escribir pruebas m谩s legibles y mantenibles.
+- Se integra con Cucumber para la definici贸n de escenarios de prueba en lenguaje natural.
+- Configurado con Gradle como gestor de paquetes y herramienta de construcci贸n.
 
 ## Requisitos previos
 
 - Java 8 o superior
 - Gradle 7.1.1 o superior
 
-## Configuraci髇 del proyecto
+## Configuraci贸n del proyecto
 
 1. Clona el repositorio:
 
 ```shell
 git clone https://github.com/Johoxtum/SerenityScreenplayAPI.git
 ```
-## ? Ejecutando las pruebas
+## :rocket Ejecutando las pruebas
 
 ```shell
 gradle clean test aggregate
@@ -56,8 +56,8 @@ serenity.properties                       | General properties Serenity
 
 Si tienes alguna pregunta o comentario sobre este proyecto, no dudes en contactarme:
 
-- Nombre: Johoxtum Jim閚ez
+- Nombre: Johoxtum Jim茅nez
 - Email: [Johoxtum@gmail.com](mailto:Johoxtum@gmail.com)
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/johoxtum-jimenez-463ba1211/)
 -
-racias por tu inter閟 en este proyecto de automatizaci髇 QA con Serenity Screenplay!
+锛歳acias por tu inter茅s en este proyecto de automatizaci贸n QA con Serenity Screenplay!
