@@ -24,7 +24,7 @@ Este proyecto es un ejemplo de implementación de pruebas automatizadas utilizan
 ```shell
 git clone https://github.com/Johoxtum/SerenityScreenplayAPI.git
 ```
-## :rocket Ejecutando las pruebas
+## :rocket: Ejecutando las pruebas
 
 ```shell
 gradle clean test aggregate
