@@ -46,7 +46,7 @@ src
    + RunnerTestSuite.java              | Main class
  + resources                           |
    + features                          | Feature files
-  ?    + {feature_name}                 | Feature file  specific
+      + {feature_name}                 | Feature file  specific
           {feature_name}.feature?       |
    + serenity.conf                     | Config file for Serenity
 serenity.properties                       | General properties Serenity
@@ -59,5 +59,5 @@ Si tienes alguna pregunta o comentario sobre este proyecto, no dudes en contacta
 - Nombre: Johoxtum Jiménez
 - Email: [Johoxtum@gmail.com](mailto:Johoxtum@gmail.com)
 - LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/johoxtum-jimenez-463ba1211/)
--
-：racias por tu interés en este proyecto de automatización QA con Serenity Screenplay!
+
+Gracias por tu interés en este proyecto de automatización QA con Serenity Screenplay!
