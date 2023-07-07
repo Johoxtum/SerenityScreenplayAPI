@@ -6,7 +6,7 @@
 
 Este proyecto es un ejemplo de implementación de pruebas automatizadas utilizando Serenity Screenplay con Cucumber y Gradle. Las pruebas están diseñadas para interactuar con la API "https://restful-booker.herokuapp.com/apidoc/index.html#api-Booking-GetBookings".
 
-## Características
+## Caracteristicas
 
 - Utiliza el enfoque de Screenplay para escribir pruebas más legibles y mantenibles.
 - Se integra con Cucumber para la definición de escenarios de prueba en lenguaje natural.
