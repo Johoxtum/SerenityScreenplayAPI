@@ -1,6 +1,6 @@
 ## :rocket: Proyecto de Automatizacion de Pruebas para API con Serenity Screenplay
 
-[![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD-3.6.12-green)](http://www.thucydides.info/#/)
+[![Serenity BDD](https://img.shields.io/badge/Serenity%20BDD-3.6.12-green)](https://serenity-bdd.info/)
 [![Cucumber](https://img.shields.io/badge/Cucumber-3.6.12-brightgreen)](https://cucumber.io/)
 [![Gradle](https://img.shields.io/badge/Gradle-7.1.1-blue)](https://gradle.org/)
 
